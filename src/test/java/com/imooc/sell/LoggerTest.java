@@ -26,6 +26,7 @@ public class LoggerTest {
     @Test
     public void test1(){
 
+        log.warn("waring...");
         log.debug("debug.....");
         log.info("info.....");
         log.error("error....");
