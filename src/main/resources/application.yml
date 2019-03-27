@@ -1,0 +1,4 @@
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  file: /Users/squareface/IdeaProjects/sell-logger/sell.log
